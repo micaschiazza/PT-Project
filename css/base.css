@@ -1,0 +1,62 @@
+.bg-light {
+    background-color: #e8162f!important;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.box1{
+	background: #e8162f;
+	height: 200px;
+	padding: 75px 0;
+	text-align: center; 
+
+}
+
+.box1 a {color: white;}
+
+.box2{
+	background: #e8162f;
+	height: 200px;
+	padding: 75px 0;
+	text-align: center;
+}
+
+.box2 a {color: white;}
+
+.box3{
+	background: #e8162f;
+	height: 200px;
+	padding: 75px 0;
+	text-align: center;
+}
+
+.box3 a {color: white;}
+
+
+.jumbotron{
+	background: #e8162f;
+	text-align: center;
+	height: 350px;
+	color: white;
+}
+
+
+
+.section{
+	padding: 50px 0;
+}
+
+.footer-top {
+	background-color: #e8162f;
+	height: 5px;
+	margin-top: 50px;
+}
+
+
+footer {
+	background: black;
+	color: white;
+	padding: 75px 0;
+}
